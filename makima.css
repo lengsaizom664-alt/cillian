@@ -249,7 +249,7 @@ html,body{
   .subtitle{font-size:14px}
   .signature{font-size:32px}
   .image-wrap{width:100%;max-width:260px;margin:0 auto}
-  .watermark{font-size:80px;letter-spacing:60px}
+  .watermark{font-size:80px;letter-spacing:0px}
   .row img{width:160px;height:230px}
   .page2{padding:15px 3%}
   .gallery-header{font-size:18px}
